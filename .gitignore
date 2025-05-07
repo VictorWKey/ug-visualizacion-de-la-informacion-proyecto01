@@ -1,0 +1,7 @@
+heatmaps_output/
+taxi_log_2008_by_id/
+*.parquet
+*.txt
+*.txt.gz
+*.txt.gz.part
+*.parquet
